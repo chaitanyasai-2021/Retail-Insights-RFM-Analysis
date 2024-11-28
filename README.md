@@ -82,7 +82,11 @@ Using **Tableau**, I created dynamic dashboards to visualize and analyze sales d
 
 1. **Customer Segmentation Dashboard**: Visualized customer segments like *Loyal Customers*, *Lost Customers*, and *Potential Churners*.  
 2. **Product Analysis Dashboard**: Showcased high-performing products, sales trends, and seasonal insights.  
-3. **Geographical Dashboard**: Highlighted top-performing regions for targeted marketing campaigns.  
+3. **Geographical Dashboard**: Highlighted top-performing regions for targeted marketing campaigns.
+--
+![alt text](visualizations/2.png)
+
+![alt text](visualizations/1.png)
 
 ---
 
